@@ -159,7 +159,7 @@ int main()
     LinkSeq<int> link(number,1);
     link.Printlink();
     link.Insert(10,9);
-    //link.Delete(10);u
+    //link.Delete(10);
     //link.Reversal();
     //cout<<link.GetAt(1)<<endl;
     link.Printlink();
