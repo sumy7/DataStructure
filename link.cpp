@@ -90,7 +90,7 @@ void LinkSeq<T>::Delete(int n)
     }
     else
     {
-        throw "É¾³ýÊ§°Ü¡£";
+        throw "位置。";
     }
 }
 
